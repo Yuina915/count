@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView: View { 
     
     @State var count = 0
     @State var result = ""
